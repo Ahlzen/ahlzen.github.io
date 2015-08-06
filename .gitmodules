@@ -1,0 +1,3 @@
+[submodule "jv1010tool"]
+	path = jv1010tool
+	url = https://github.com/Ahlzen/jv1010tool.git
